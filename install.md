@@ -16,6 +16,10 @@ Our first step will be to install Anaconda, which will make sure we have everyth
 
 # Test it out
 
+## Chromebook
+
+If you have a chromebook you won't be able to install things onto your computer directly but you can use a cloud-based jupyter [here](https://colab.research.google.com)
+
 ## Windows
 
 Find and open the program Anaconda Prompt, which we just installed. You will use this in place of the Terminal program in Mac/Linux instructions.
